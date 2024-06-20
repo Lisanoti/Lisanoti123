@@ -16,11 +16,11 @@ module.exports.config = {
 module.exports.onStart  = async ({ api, event }) => {
   try {
     const ownerInfo = {
-      name: 'sʜᴇɪᴋʜ ʀᴜᴘᴏᴋ',
+      name: 'N I S A N',
       gender: 'Male',
-      age: '16+',
-      height: '5.8\'ft',
-      facebookLink: 'https://www.facebook.com/share/B7CgjvS3i8nLbtNT/?mibextid=qi2Omg',
+      age: '18+',
+      height: '5.5\'ft',
+      facebookLink: 'https://www.facebook.com/nisan.editz2005',
       status: '𝑯𝒂𝒕𝒆𝒓𝒔 𝒂𝒓𝒆 𝒎𝒚 𝒎𝒐𝒕𝒊𝒗𝒂𝒕𝒐𝒓𝒔'
     };
     const videoUrl = 'https://drive.google.com/uc?export=download&id=1JJwwQDPrHMKzLQq_AYHvlMNLjD-kTIMO'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
